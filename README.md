@@ -64,3 +64,6 @@ Good loans account for the majority of applications, while bad loans contribute 
 Certain loan purposes dominate total funded amount
 Higher interest rate and DTI loans show weaker repayment behavior
 Risk banding highlights segments requiring closer monitoring
+
+Dashboard Preview
+[Dashboard Preview](https://github.com/amithsagargowda/Bank-Loan-Portfolio-Analysis-/blob/main/snapshot%20summary.png)
